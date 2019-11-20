@@ -30,4 +30,5 @@ special thanks to:
 * Peter De Wachter - https://github.com/pdewacht/adlipt
 * Maarten Janssen -https://github.com/DhrBaksteen/ArduinoOPL2
 * Mark Pilsur
+
 these guys kindly answered my email clarifying a lot of questions about opl2 :)
