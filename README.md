@@ -7,7 +7,7 @@ november 19, 2019
 
 target OS: OLOS & DOS
 
-target machine: at least 486 66 MHz (althogh the code is 16 bits)
+target machine: at least 486 66 MHz (although the code is 16 bits)
 
 executable extension: *.EXE
 
