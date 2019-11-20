@@ -18,3 +18,8 @@ use: masm demo3d
 note: for OLOS, it is necessary to convert demo3d.exe to demo3d.com
 assembler: nasm
 use: nasm exe2com.asm -o demo3d.com -f bin
+
+
+resources:
+midi "stage 1 - vampire killer" - https://www.khinsider.com/midi/nes/castlevania
+
