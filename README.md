@@ -23,3 +23,11 @@ use: nasm exe2com.asm -o demo3d.com -f bin
 resources:
 midi "stage 1 - vampire killer" - https://www.khinsider.com/midi/nes/castlevania
 
+
+special thanks to:
+------------------
+kvee - https://www.youtube.com/watch?v=WerFTLpz3b4&t=80s
+Peter De Wachter - https://github.com/pdewacht/adlipt
+Maarten Janssen -https://github.com/DhrBaksteen/ArduinoOPL2
+Mark Pilsur
+these guys kindly answered my email clarifying a lot of questions about opl2 :)
