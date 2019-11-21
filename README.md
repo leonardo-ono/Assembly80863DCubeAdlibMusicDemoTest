@@ -1,6 +1,8 @@
 # Assembly80863DCubeAdlibMusicDemoTest
 First assembly 8086 vga graphics 3D cube + adlib opl2 music demo test for OLOS (https://github.com/leonardo-ono/Assembly8086OLOS). Of course, it also work on DOS :) Video: https://youtu.be/XC3eRKOJQ3U
 
+If you want to test it, please just burn olos.iso (https://github.com/leonardo-ono/Assembly80863DCubeAdlibMusicDemoTest/raw/master/olos.iso) to a cd and boot it from cd-rom
+
 3d cube (fixed-point math) + adlib opl2 music demo 
 written by Leonardo Ono (ono.leo@gmail.com)
 november 19, 2019
